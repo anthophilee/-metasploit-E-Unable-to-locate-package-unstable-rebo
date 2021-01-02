@@ -1,0 +1,2 @@
+# -metasploit-E-Unable-to-locate-package-unstable-rebo
+ &amp; pkg upgrade -y   &amp;  pkg install ruby -y   &amp;  pkg install ruby   &amp;  gem install bundler:1.17.3   &amp;  pkg install curl -y   &amp; curl -LO http://github.com/termux/termux-packages/files/3960686 metasploit_5.0.56_android5_all.deb.gz   &amp;  ls   &amp; gunzip metasploit_5.0.56_android5_all.deb.gz   &amp;  ls    &amp; dpkg -i metasploit_5.0.56_android5_all.deb    &amp; apt install -f -y    &amp;  Msfconsole
